@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"EditorConfig",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"Material Theme",
+		"SublimeLinter",
+		"SublimeLinter-jshint"
+	]
+}
